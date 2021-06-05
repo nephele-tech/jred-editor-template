@@ -16,9 +16,6 @@
 			<url>https://maven.pkg.github.com/nephele-tech/j-red</url>
 		</repository>
 	</repositories>
-	<properties>
-		<jetty-maven-plugin.version>9.4.41.v20210516</jetty-maven-plugin.version>
-	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>com.nepheletech</groupId>
