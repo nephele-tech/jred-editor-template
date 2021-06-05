@@ -6,7 +6,7 @@ Run J-RED Editor by using [jetty maven plugin](https://wiki.eclipse.org/Jetty/Fe
 ```
 	<servers>
   
-    ...
+    		...
   
 		<server>
 			<id>github</id>
