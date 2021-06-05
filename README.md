@@ -1,7 +1,6 @@
 # jred-editor-template
-J-RED flow editor template
 
-Run J-RED flow editor by using the [jetty maven plugin](https://wiki.eclipse.org/Jetty/Feature/Jetty_Maven_Plugin):
+Run J-RED Editor by using [jetty maven plugin](https://wiki.eclipse.org/Jetty/Feature/Jetty_Maven_Plugin):
 
 `export JAVA_HOME=<jdk11>`
 
@@ -11,4 +10,4 @@ Run J-RED flow editor by using the [jetty maven plugin](https://wiki.eclipse.org
 
 `mvn jetty:run`
 
-J-RED flow editor will run at [http://localhost:8080/index.html](http://localhost:8080/index.html).
+J-RED Editor will run at [http://localhost:8080/index.html](http://localhost:8080/index.html).
