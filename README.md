@@ -3,7 +3,6 @@
 Run J-RED Editor by using [jetty maven plugin](https://wiki.eclipse.org/Jetty/Feature/Jetty_Maven_Plugin).
 
 ### Update `.m2/settings.xml` (Maven Settings):
-#### See: https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
 ```
 	<servers>
   
@@ -16,6 +15,8 @@ Run J-RED Editor by using [jetty maven plugin](https://wiki.eclipse.org/Jetty/Fe
 		</server>
 	</servers>
 ```
+
+See [Create a Personal Access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 ### Run the following commands:
 `export JAVA_HOME=<jdk11>`
