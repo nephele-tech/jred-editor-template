@@ -11,7 +11,8 @@ Run J-RED Editor by using [jetty maven plugin](https://wiki.eclipse.org/Jetty/Fe
 		<server>
 			<id>github</id>
 			<username>nephele-tech</username>
-			<password>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</password>
+			<!-- Read Only PAN -->
+			<password>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</password>
 		</server>
 	</servers>
 ```
